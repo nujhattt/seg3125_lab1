@@ -42,3 +42,10 @@ input[type="submit"]  {
     background-color: rgba(83, 167, 232, 0.342);
     margin: 1em;
  }
+
+ .question5{
+    border-style: solid;
+    border:1px;
+    background-color: rgba(83, 167, 232, 0.342);
+    margin: 1em;
+ }
